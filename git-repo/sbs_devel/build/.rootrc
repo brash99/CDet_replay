@@ -1,0 +1,8 @@
+# Don't override a user's rootlogon.C. See if this works instead.
+Rint.Logon        /adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/install/etc/rootlogon.C
+
+Unix.*.Root.DynamicPath:   .:lib64:$(ROOTSYS)/lib
+Unix.*.Root.MacroPath:     .:/adaqfs/home/a-onl/sbs/CDET_replay/git-repo/sbs_devel/SBS-replay/replay:/adaqfs/home/a-onl/sbs/CDET_replay/git-repo/sbs_devel/SBS-replay/scripts:/adaqfs/home/a-onl/sbs/CDET_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig: /adaqfs/home/a-onl/sbs/CDET_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig/scripts:$(ROOTSYS)/macros
+
+ACLiC.IncludePaths:       -Iinclude
+

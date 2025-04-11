@@ -1,0 +1,69 @@
+module "sbs" {
+  requires cplusplus
+  module "MPDModule.h" { header "MPDModule.h" export * }
+  module "MPDModuleVMEv4.h" { header "MPDModuleVMEv4.h" export * }
+  module "SBSBigBite.h" { header "SBSBigBite.h" export * }
+  module "SBSGEMTrackerBase.h" { header "SBSGEMTrackerBase.h" export * }
+  module "SBSGEMSpectrometerTracker.h" { header "SBSGEMSpectrometerTracker.h" export * }
+  module "SBSGEMModule.h" { header "SBSGEMModule.h" export * }
+  module "SBSGEMPolarimeterTracker.h" { header "SBSGEMPolarimeterTracker.h" export * }
+  module "SBSBBShower.h" { header "SBSBBShower.h" export * }
+  module "SBSBBTotalShower.h" { header "SBSBBTotalShower.h" export * }
+  module "SBSCDet.h" { header "SBSCDet.h" export * }
+  module "SBSCDet_Hit.h" { header "SBSCDet_Hit.h" export * }
+  module "SBSScintHit.h" { header "SBSScintHit.h" export * }
+  module "SBSScintPMT.h" { header "SBSScintPMT.h" export * }
+  module "SBSTimingHodoscope.h" { header "SBSTimingHodoscope.h" export * }
+  module "SBSScintBar.h" { header "SBSScintBar.h" export * }
+  module "SBSTdcHit.h" { header "SBSTdcHit.h" export * }
+  module "SBSAdcHit.h" { header "SBSAdcHit.h" export * }
+  module "SBSScintPartialHit.h" { header "SBSScintPartialHit.h" export * }
+  module "SBSCherenkovDetector.h" { header "SBSCherenkovDetector.h" export * }
+  module "SBSCherenkov_ClusterList.h" { header "SBSCherenkov_ClusterList.h" export * }
+  module "SBSGRINCH.h" { header "SBSGRINCH.h" export * }
+  module "SBSScintPlane.h" { header "SBSScintPlane.h" export * }
+  module "SBSEArm.h" { header "SBSEArm.h" export * }
+  module "SBSGEPEArm.h" { header "SBSGEPEArm.h" export * }
+  module "SBSECal.h" { header "SBSECal.h" export * }
+  module "SBSHCal.h" { header "SBSHCal.h" export * }
+  module "SBSDecodeF1TDCModule.h" { header "SBSDecodeF1TDCModule.h" export * }
+  module "SBSCalorimeter.h" { header "SBSCalorimeter.h" export * }
+  module "SBSGenericDetector.h" { header "SBSGenericDetector.h" export * }
+  module "SBSData.h" { header "SBSData.h" export * }
+  module "SBSElement.h" { header "SBSElement.h" export * }
+  module "SBSCalorimeterCluster.h" { header "SBSCalorimeterCluster.h" export * }
+  module "SBSSimDataDecoder.h" { header "SBSSimDataDecoder.h" export * }
+  module "SBSSimDecoder.h" { header "SBSSimDecoder.h" export * }
+  module "SBSSimADC.h" { header "SBSSimADC.h" export * }
+  module "SBSSimTDC.h" { header "SBSSimTDC.h" export * }
+  module "SBSHCalLEDModule.h" { header "SBSHCalLEDModule.h" export * }
+  module "SBSManager.h" { header "SBSManager.h" export * }
+  module "SBSSimFile.h" { header "SBSSimFile.h" export * }
+  module "SBSSimEvent.h" { header "SBSSimEvent.h" export * }
+  module "SBSRPBeamSideHodo.h" { header "SBSRPBeamSideHodo.h" export * }
+  module "SBSRPFarSideHodo.h" { header "SBSRPFarSideHodo.h" export * }
+  module "SBSCHAnalyzer.h" { header "SBSCHAnalyzer.h" export * }
+  module "SBSTimingHodoscopePMT.h" { header "SBSTimingHodoscopePMT.h" export * }
+  module "SBSTimingHodoscopeBar.h" { header "SBSTimingHodoscopeBar.h" export * }
+  module "SBSTimingHodoscopeCluster.h" { header "SBSTimingHodoscopeCluster.h" export * }
+  module "SBSBPM.h" { header "SBSBPM.h" export * }
+  module "SBSRaster.h" { header "SBSRaster.h" export * }
+  module "SBSRasteredBeam.h" { header "SBSRasteredBeam.h" export * }
+  module "LHRSScalerEvtHandler.h" { header "LHRSScalerEvtHandler.h" export * }
+  module "SBSScalerEvtHandler.h" { header "SBSScalerEvtHandler.h" export * }
+  module "SBSScalerHelicity.h" { header "SBSScalerHelicity.h" export * }
+  module "SBSScalerHelicityReader.h" { header "SBSScalerHelicityReader.h" export * }
+  module "gmn_tree_digitized.h" { header "gmn_tree_digitized.h" export * }
+  module "genrp_tree_digitized.h" { header "genrp_tree_digitized.h" export * }
+  module "gep_tree_digitized.h" { header "gep_tree_digitized.h" export * }
+  module "VETROC.h" { header "VETROC.h" export * }
+  module "VETROCcdet.h" { header "VETROCcdet.h" export * }
+  module "VTPModule.h" { header "VTPModule.h" export * }
+  module "SBSVTP.h" { header "SBSVTP.h" export * }
+  module "SBSGEPRegionOfInterestModule.h" { header "SBSGEPRegionOfInterestModule.h" export * }
+  module "DebugDef.h" { header "DebugDef.h" export * }
+  module "Helper.h" { header "Helper.h" export * }
+  link "libsbs.so"
+  export *
+}
+
