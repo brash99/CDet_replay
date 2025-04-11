@@ -7,6 +7,3 @@
 [submodule "git-repo/panguin"]
 	path = git-repo/panguin
 	url = git@github.com:JeffersonLab/panguin.git
-[submodule "git-repo/sbs_devel/SBS-replay"]
-	path = git-repo/sbs_devel/SBS-replay
-	url = git@github.com:brash99/SBS-replay.git
