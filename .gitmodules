@@ -1,0 +1,3 @@
+[submodule "git-repo/sbs_devel/SBS-offline"]
+	path = git-repo/sbs_devel/SBS-offline
+	url = git@github.com:brash99/SBS-offline.git
