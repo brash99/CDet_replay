@@ -1,3 +1,9 @@
 [submodule "git-repo/sbs_devel/SBS-offline"]
 	path = git-repo/sbs_devel/SBS-offline
 	url = git@github.com:brash99/SBS-offline.git
+[submodule "CDet"]
+	path = CDet
+	url = git@github.com:brash99/CDet.git
+[submodule "git-repo/panguin"]
+	path = git-repo/panguin
+	url = git@github.com:JeffersonLab/panguin.git
