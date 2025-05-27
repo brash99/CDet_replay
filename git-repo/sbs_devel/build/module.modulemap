@@ -61,9 +61,10 @@ module "sbs" {
   module "VTPModule.h" { header "VTPModule.h" export * }
   module "SBSVTP.h" { header "SBSVTP.h" export * }
   module "SBSGEPRegionOfInterestModule.h" { header "SBSGEPRegionOfInterestModule.h" export * }
+  module "SBSGEPHeepCoinModule.h" { header "SBSGEPHeepCoinModule.h" export * }
   module "DebugDef.h" { header "DebugDef.h" export * }
   module "Helper.h" { header "Helper.h" export * }
-  link "libsbs.so"
+  link "libsbs.dylib"
   export *
 }
 

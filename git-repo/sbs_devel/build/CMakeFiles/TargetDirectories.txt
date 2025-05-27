@@ -1,8 +1,8 @@
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbsDict.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbs.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/edit_cache.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/rebuild_cache.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/list_install_components.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/local.dir
-/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/strip.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbsDict.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbs.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/edit_cache.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/rebuild_cache.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/list_install_components.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/local.dir
+/Users/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/strip.dir

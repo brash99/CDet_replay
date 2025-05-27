@@ -11,7 +11,7 @@ void rootlogon(){
   
   FILE *ftest = fopen( fnametemp.Data(),"r");
 
-  if( ftest != NULL && cwd != "/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/install/etc"){
+  if( ftest != NULL && cwd != "/Users/brash/CDet_replay/git-repo/sbs_devel/install/etc"){
     cout << "found rootlogon.C in current working directory, executing..." << endl;
     TString cmd = ".x " + fnametemp;
     gROOT->ProcessLine(cmd.Data());
@@ -32,11 +32,11 @@ void rootlogon(){
     }
   }
   
-  //gSystem->AddIncludePath(" -I/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/include");
-  //gSystem->AddIncludePath(" -I/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/install/include");
-  gSystem->AddIncludePath(" -I/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/install/include");
+  //gSystem->AddIncludePath(" -I/Users/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/include");
+  //gSystem->AddIncludePath(" -I/Users/brash/CDet_replay/git-repo/sbs_devel/install/include");
+  gSystem->AddIncludePath(" -I/Users/brash/CDet_replay/git-repo/sbs_devel/install/include");
 
-  TString libname = "/adaqfs/home/a-onl/brash/CDet_replay/git-repo/sbs_devel/install/lib64/libsbs.so";
+  TString libname = "/Users/brash/CDet_replay/git-repo/sbs_devel/install/lib/libsbs.so";
 
   SysInfo_t sysinfo;
   gSystem->GetSysInfo( &sysinfo );

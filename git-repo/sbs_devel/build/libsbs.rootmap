@@ -2,7 +2,7 @@
 namespace Decoder {  }
 namespace SBSData {  }
 
-[ libsbs.so ]
+[ libsbs.dylib ]
 # List of selected classes
 class Decoder::HCalLED
 class Decoder::MPDModule
@@ -39,6 +39,7 @@ class SBSGEMModule
 class SBSGEMPolarimeterTracker
 class SBSGEMSpectrometerTracker
 class SBSGEPEArm
+class SBSGEPHeepCoinModule
 class SBSGEPRegionOfInterestModule
 class SBSGRINCH
 class SBSGenericDetector
@@ -99,6 +100,7 @@ header SBSGEMModule.h
 header SBSGEMPolarimeterTracker.h
 header SBSGEMSpectrometerTracker.h
 header SBSGEPEArm.h
+header SBSGEPHeepCoinModule.h
 header SBSGEPRegionOfInterestModule.h
 header SBSGRINCH.h
 header SBSGenericDetector.h
