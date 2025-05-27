@@ -2,7 +2,7 @@
 namespace Decoder {  }
 namespace SBSData {  }
 
-[ libsbs.dylib ]
+[ libsbs.so ]
 # List of selected classes
 class Decoder::HCalLED
 class Decoder::MPDModule

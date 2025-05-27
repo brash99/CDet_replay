@@ -125,9 +125,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/sbs.dir/gmn_tree_digitized.cxx.o.d"
   "CMakeFiles/sbs.dir/sbsDict.cxx.o"
   "CMakeFiles/sbs.dir/sbsDict.cxx.o.d"
-  "libsbs.dylib"
   "libsbs.pdb"
   "libsbs.rootmap"
+  "libsbs.so"
   "libsbs_rdict.pcm"
   "sbsDict.cxx"
 )

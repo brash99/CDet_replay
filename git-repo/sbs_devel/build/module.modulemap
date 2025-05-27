@@ -64,7 +64,7 @@ module "sbs" {
   module "SBSGEPHeepCoinModule.h" { header "SBSGEPHeepCoinModule.h" export * }
   module "DebugDef.h" { header "DebugDef.h" export * }
   module "Helper.h" { header "Helper.h" export * }
-  link "libsbs.dylib"
+  link "libsbs.so"
   export *
 }
 
