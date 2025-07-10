@@ -1,8 +1,8 @@
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbsDict.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbs.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/edit_cache.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/rebuild_cache.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/list_install_components.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/local.dir
-/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/strip.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbsDict.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/sbs.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/edit_cache.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/rebuild_cache.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/list_install_components.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/local.dir
+/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/CMakeFiles/install/strip.dir

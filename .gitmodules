@@ -10,6 +10,7 @@
 [submodule "git-repo/sbs_devel/SBS-replay"]
 	path = git-repo/sbs_devel/SBS-replay
 	url = https://github.com/btspaude/SBS-replay.git
+
 [submodule "git-repo/sbs_devel/jlab-HPC"]
-        path = git-repo/sbs_devel/jlab-HPC
-        url = https://github.com/btspaude/jlab-HPC.git
+	path = git-repo/sbs_devel/jlab-HPC
+	url = https://github.com/btspaude/jlab-HPC.git
