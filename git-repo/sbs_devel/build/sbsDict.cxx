@@ -7258,12 +7258,12 @@ namespace {
 nullptr
     };
     static const char* includePaths[] = {
-"/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline",
+"/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline",
 "/u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include",
-"/work/hallc/gep/brash/Podd/1.7.0/include",
-"/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline",
+"/work/halla/sbs/btspaude/Podd/1.7.12/include",
+"/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline",
 "/u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/",
-"/w/hallc-scshelf2102/gep/brash/CDet_replay/git-repo/sbs_devel/build/",
+"/w/halla-scshelf2102/sbs/btspaude/CDet_replay/git-repo/sbs_devel/build/",
 nullptr
     };
     static const char* fwdDeclCode = R"DICTFWDDCLS(
