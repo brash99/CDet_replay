@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/SBSSimDataDecoder.cxx.o: \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSSimDataDecoder.cxx \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSSimDataDecoder.cxx \
  /usr/include/stdc-predef.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSSimDataDecoder.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSSimDataDecoder.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

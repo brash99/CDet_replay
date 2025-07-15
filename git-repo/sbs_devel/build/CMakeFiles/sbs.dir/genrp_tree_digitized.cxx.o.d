@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/genrp_tree_digitized.cxx.o: \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/genrp_tree_digitized.cxx \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/genrp_tree_digitized.cxx \
  /usr/include/stdc-predef.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/genrp_tree_digitized.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/genrp_tree_digitized.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TROOT.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TDirectory.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TNamed.h \

@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/SBSTimingHodoscopeBar.cxx.o: \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopeBar.cxx \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopeBar.cxx \
  /usr/include/stdc-predef.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopeBar.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopeBar.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RtypesCore.h \
@@ -144,7 +144,7 @@ CMakeFiles/sbs.dir/SBSTimingHodoscopeBar.cxx.o: \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RVersion.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TRef.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSElement.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSElement.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h

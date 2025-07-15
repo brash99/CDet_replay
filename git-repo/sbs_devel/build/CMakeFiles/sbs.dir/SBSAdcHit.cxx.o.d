@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/SBSAdcHit.cxx.o: \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSAdcHit.cxx \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSAdcHit.cxx \
  /usr/include/stdc-predef.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSAdcHit.h \
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSAdcHit.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RtypesCore.h \
@@ -144,4 +144,4 @@ CMakeFiles/sbs.dir/SBSAdcHit.cxx.o: \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RVersion.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TRef.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
- /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSScintPMT.h
+ /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSScintPMT.h

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DHAS_SSTREAM -DLINUXVERS -DMCDATA -DTESTCODE -DVERBOSE -Dsbs_EXPORTS
 
-CXX_INCLUDES = -I/u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include -I/work/halla/sbs/btspaude/Podd/1.7.12/include -I/work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline
+CXX_INCLUDES = -I/u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include -I/work/hallc/gep/brash/Podd/1.7.0/include -I/work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline
 
 CXX_FLAGS =  -mtune=znver1 -std=c++17 -pipe -fsigned-char -pthread -Wall -fPIC -Woverloaded-virtual -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -mtune=znver1 -std=c++17 -pipe -fsigned-char -pthread -O2 -g -DNDEBUG -fPIC
 
