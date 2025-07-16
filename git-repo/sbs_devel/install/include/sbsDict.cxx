@@ -573,7 +573,7 @@ namespace ROOT {
       ::SBSCalorimeter *ptr = nullptr;
       static ::TVirtualIsAProxy* isa_proxy = new ::TInstrumentedIsAProxy< ::SBSCalorimeter >(nullptr);
       static ::ROOT::TGenericClassInfo 
-         instance("SBSCalorimeter", ::SBSCalorimeter::Class_Version(), "SBSCalorimeter.h", 94,
+         instance("SBSCalorimeter", ::SBSCalorimeter::Class_Version(), "SBSCalorimeter.h", 96,
                   typeid(::SBSCalorimeter), ::ROOT::Internal::DefineBehavior(ptr, ptr),
                   &::SBSCalorimeter::Dictionary, isa_proxy, 4,
                   sizeof(::SBSCalorimeter) );
