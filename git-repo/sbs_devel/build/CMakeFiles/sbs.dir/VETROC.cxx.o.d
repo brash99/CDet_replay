@@ -1,9 +1,9 @@
 CMakeFiles/sbs.dir/VETROC.cxx.o: \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/VETROC.cxx \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/VETROC.cxx \
  /usr/include/stdc-predef.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/VETROC.h \
- /work/hallc/gep/brash/Podd/1.7.0/include/VmeModule.h \
- /work/hallc/gep/brash/Podd/1.7.0/include/Module.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/VETROC.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/VmeModule.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/Module.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TNamed.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
@@ -202,7 +202,7 @@ CMakeFiles/sbs.dir/VETROC.cxx.o: \
  /usr/include/c++/11/bits/shared_ptr_atomic.h \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h /usr/include/c++/11/cstdarg \
- /work/hallc/gep/brash/Podd/1.7.0/include/Decoder.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/Decoder.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /usr/include/c++/11/set /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/bits/stl_set.h \
@@ -228,7 +228,7 @@ CMakeFiles/sbs.dir/VETROC.cxx.o: \
  /usr/include/c++/11/x86_64-redhat-linux/bits/basic_file.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc \
- /work/hallc/gep/brash/Podd/1.7.0/include/THaSlotData.h \
- /work/hallc/gep/brash/Podd/1.7.0/include/CustomAlloc.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/THaSlotData.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/CustomAlloc.h \
  /usr/include/c++/11/cassert /usr/include/assert.h \
  /usr/include/c++/11/iostream

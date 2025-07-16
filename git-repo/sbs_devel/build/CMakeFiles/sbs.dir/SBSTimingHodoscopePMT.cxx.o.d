@@ -1,8 +1,8 @@
 CMakeFiles/sbs.dir/SBSTimingHodoscopePMT.cxx.o: \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.cxx \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.cxx \
  /usr/include/stdc-predef.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSElement.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSTimingHodoscopePMT.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSElement.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TObject.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RtypesCore.h \
@@ -143,5 +143,5 @@ CMakeFiles/sbs.dir/SBSTimingHodoscopePMT.cxx.o: \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TStorage.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TVersionCheck.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RVersion.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h

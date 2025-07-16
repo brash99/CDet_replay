@@ -1,15 +1,15 @@
 [submodule "git-repo/sbs_devel/SBS-offline"]
 	path = git-repo/sbs_devel/SBS-offline
-	url = https://github.com/brash99/SBS-offline.git
+	url = https://github.com/btspaude/SBS-offline.git
 [submodule "CDet"]
 	path = CDet
-	url = https://github.com/brash99/CDet.git
+	url = https://github.com/btspaude/CDet.git
 [submodule "git-repo/panguin"]
 	path = git-repo/panguin
 	url = https://github.com/JeffersonLab/panguin.git
 [submodule "git-repo/sbs_devel/SBS-replay"]
 	path = git-repo/sbs_devel/SBS-replay
-	url = https://github.com/brash99/SBS-replay.git
+	url = https://github.com/btspaude/SBS-replay.git
 [submodule "git-repo/sbs_devel/jlab-HPC"]
 	path = git-repo/sbs_devel/jlab-HPC
-	url = https://github.com/brash99/jlab-HPC.git
+	url = https://github.com/btspaude/jlab-HPC.git

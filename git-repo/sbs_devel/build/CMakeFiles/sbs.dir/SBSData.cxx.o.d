@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/SBSData.cxx.o: \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.cxx \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.cxx \
  /usr/include/stdc-predef.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSData.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/c++/11/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \

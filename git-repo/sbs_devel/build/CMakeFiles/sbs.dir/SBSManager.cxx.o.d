@@ -1,7 +1,7 @@
 CMakeFiles/sbs.dir/SBSManager.cxx.o: \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSManager.cxx \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSManager.cxx \
  /usr/include/stdc-predef.h \
- /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSManager.h \
+ /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-offline/SBSManager.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TString.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RtypesCore.h \
@@ -199,8 +199,8 @@ CMakeFiles/sbs.dir/SBSManager.cxx.o: \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TStorage.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TVersionCheck.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/RVersion.h \
- /work/hallc/gep/brash/Podd/1.7.0/include/THaCrateMap.h \
- /work/hallc/gep/brash/Podd/1.7.0/include/Decoder.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/THaCrateMap.h \
+ /work/halla/sbs/btspaude/Podd/1.7.12/include/Decoder.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/Rtypes.h \
  /u/group/halla/apps/ROOT/6.30-04/el9/RelWithDebInfo/include/TDatime.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/istream \
