@@ -13,4 +13,5 @@ setenv DB_DIR /work/hallc/gep/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/DB
 setenv DATA_DIR /work/hallc/gep/brash/sbs/data
 #setenv DATA_DIR /cache/hallc/gep/GEnRP/raw
 setenv OUT_DIR /work/hallc/gep/brash/sbs/Rootfiles
+setenv ANALYSED_DIR /work/hallc/gep/brash/sbs/Rootfiles/cdetFiles/cdet_histfiles
 
