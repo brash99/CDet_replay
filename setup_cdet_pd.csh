@@ -4,6 +4,8 @@ echo  "\n"
 echo " Welcome to CDET analysis framework! " 
 echo  "\n"
 
+source make_links.csh
+
 #module purge
 #module load analyzer/1.7.12-sbs6
 
