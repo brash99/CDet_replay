@@ -15,6 +15,3 @@ setenv DATA_DIR /cache/mss/halla/sbs/GEp/raw/
 setenv ANALYSED_DIR /work/halla/sbs/btspaude/sbs/Rootfiles/cdetFiles/cdet_histfiles
 #setenv DATA_DIR /cache/halla/sbs/GEnRP/raw
 setenv OUT_DIR /work/halla/sbs/btspaude/sbs/Rootfiles
-
-
-
