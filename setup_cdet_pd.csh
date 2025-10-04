@@ -12,7 +12,7 @@ echo ""
 # Set base directory for CDET software if not already defined
 #------------------------------------------------------------
 if (! $?JLAB_INSTALL_DIR) then
-    setenv JLAB_INSTALL_DIR "/work/hallc/gep/brash/CDet_replay"
+    setenv JLAB_INSTALL_DIR "`pwd`"
     echo "JLAB_INSTALL_DIR not set — using default: $JLAB_INSTALL_DIR"
 else
     echo "Using JLAB_INSTALL_DIR: $JLAB_INSTALL_DIR"
