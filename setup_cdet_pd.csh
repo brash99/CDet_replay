@@ -14,4 +14,4 @@ setenv DB_DIR /work/halla/sbs/btspaude/CDet_replay/git-repo/sbs_devel/SBS-replay
 setenv DATA_DIR /cache/mss/halla/sbs/GEp/raw/
 setenv ANALYSED_DIR /work/halla/sbs/btspaude/sbs/Rootfiles/cdetFiles/cdet_histfiles
 #setenv DATA_DIR /cache/halla/sbs/GEnRP/raw
-setenv OUT_DIR /work/halla/sbs/btspaude/sbs/Rootfiles
+setenv OUT_DIR /volatile/halla/sbs/btspaude/cdet/rootfiles

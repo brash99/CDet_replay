@@ -11,5 +11,5 @@ echo -e "\n"
 export SBS_REPLAY=/work/hallc/gep/brash/CDET_replay/git-repo/sbs_devel/SBS-replay
 export DB_DIR=/work/hallc/gep/brash/CDET_replay/git-repo/sbs_devel/SBS-replay/DB
 export DATA_DIR=/work/hallc/gep/brash/sbs/data
-export OUT_DIR=/work/hallc/gep/brash/sbs/Rootfiles
+export OUT_DIR=/volatile/halla/sbs/btspaude/cdet/rootfiles
 
