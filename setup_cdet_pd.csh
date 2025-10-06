@@ -9,7 +9,6 @@ source make_links.csh
 # Optional module setup (uncomment if needed)
 #module purge
 #module load analyzer/1.7.12-sbs6
-
 #------------------------------------------------------------
 # Set base directory for CDET software if not already defined
 #------------------------------------------------------------
