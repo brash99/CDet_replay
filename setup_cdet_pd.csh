@@ -25,5 +25,5 @@ endif
 setenv SBS_REPLAY "${JLAB_INSTALL_DIR}/git-repo/sbs_devel/SBS-replay"
 setenv DB_DIR "${SBS_REPLAY}/DB"
 setenv DATA_DIR "${JLAB_INSTALL_DIR}/sbs/data"
-setenv OUT_DIR "${JLAB_INSTALL_DIR}/sbs/Rootfiles"
+setenv OUT_DIR "${JLAB_INSTALL_DIR}/sbs"
 setenv ANALYSED_DIR "${JLAB_INSTALL_DIR}/sbs/Rootfiles/cdetFiles/cdet_histfiles"
