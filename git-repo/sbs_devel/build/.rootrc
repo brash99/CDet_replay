@@ -1,8 +1,8 @@
 # Don't override a user's rootlogon.C. See if this works instead.
-Rint.Logon        /work/brash/CDet_replay/git-repo/sbs_devel/install/etc/rootlogon.C
+Rint.Logon        /Users/brash/CDet_replay/git-repo/sbs_devel/install/etc/rootlogon.C
 
-Unix.*.Root.DynamicPath:   .:lib64:$(ROOTSYS)/lib
-Unix.*.Root.MacroPath:     .:/work/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/replay:/work/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/scripts:/work/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig: /work/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig/scripts:$(ROOTSYS)/macros
+Unix.*.Root.DynamicPath:   .:lib:$(ROOTSYS)/lib
+Unix.*.Root.MacroPath:     .:/Users/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/replay:/Users/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/scripts:/Users/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig: /Users/brash/CDet_replay/git-repo/sbs_devel/SBS-replay/onlineGUIconfig/scripts:$(ROOTSYS)/macros
 
 ACLiC.IncludePaths:       -Iinclude
 
