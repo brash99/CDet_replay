@@ -1,0 +1,8 @@
+scripts/cdet/CDet_halfbar_intercept_corrections.dat
+scripts/cdet/CDet_halfbar_intercept_corrections_applied.dat
+scripts/cdet/CDet_halfbar_intercept_diagnostics.root
+scripts/cdet/CDet_halfbar_intercept_diagnostics_applied.root
+scripts/cdet/cCDetECalFixedEffects.jpg
+scripts/cdet/cCDetHalfBarInterceptAlignment.jpg
+scripts/cdet/cCDetTvsECalT.jpg
+scripts/cdet/cCDetTvsECalTDiagnostics.jpg
